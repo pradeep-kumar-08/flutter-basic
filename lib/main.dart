@@ -102,7 +102,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   ),
                 ),
               ),
-              const SizedBox(height: 20),
+              const SizedBox(height: 200),
               const Text("Added Image"),
               const SizedBox(height: 20),
               Container(
